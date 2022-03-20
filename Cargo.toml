@@ -1,0 +1,12 @@
+[package]
+name = "gmosx"
+description = "Provides a namespace for gmosx crates"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/gmosx/gmosx_rust"
+keywords = ["gmosx"]
+authors = ["George Moschovitis <gmosx@reizu.org>"]
+
+edition = "2021"
+
+[dependencies]
